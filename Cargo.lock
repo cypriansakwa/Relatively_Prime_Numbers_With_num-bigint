@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "Quadratic_Residues_Modulo_a_Prime_Number"
+name = "Relatively_Prime_Numbers_With_num-bigint"
 version = "0.1.0"
 dependencies = [
  "num-bigint",
